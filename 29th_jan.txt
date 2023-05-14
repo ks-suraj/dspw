@@ -1,0 +1,49 @@
+Q1  :- Who developed python programming language ?
+Ans :- Python was developed by Guido van Rossum.
+Q2  :- Which type of programming does python support ?
+Ans :- Python suppors object oriented programming and structured programming.
+Q3  :- Is python case sensitive when dealing with identfiers  ?
+Ans :- Yes, python is case sensitive when dealing with identifiers.
+Q4  :- What is correct extension of python file ?
+Ans :- THe correct extension of python file is ".py".
+Q5  :- Is python code compiled or interpreted ?
+Ans :- Python is an interpreted language, though it can be used as compiled as well as interpreted.
+Q6  :- Name a few blocks of code used to define in python language ?
+Ans :- Few blocks of code that are used to define in python language are : a function body, a class body, etc.
+Q7  :- State a charecter that are used to give in a single line comments ?
+Ans :- "#" , also called as a hastag symbol is used to give for single line comments.
+Q8  :- Mention functions which can help us to find the version of python that we are currently working on ?
+Ans :- To find the version of python we have to first import sys module and then we have to execute this statment "print(sys.version)" , this would print the          version of python. for eg :- Input : import sys 
+                                            print(sys.version) 
+                                    Output : 3.10.8 | packaged by conda-forge | (main, Nov 22 2022, 08:26:04) [GCC 10.4.0]
+Q9  :- Python suppots the creation of anonymous functions at run time, using a construct called ___________ ?
+Ans :- Python suppots the creation of anonymous functions at run time, using a construct called "Lambda" functions.
+Q10 :- What does pip stand for python ?
+Ans :- pip stands for Performance Improvment Plan.
+Q11 :- Mention a few built-in functions in python.
+Ans :- Few built-in functions in python are : print(), input(), id(), range(), etc.
+Q12 :- What is maximum possible length of an identifier in python ?
+Ans :- An identifier in pyhton can have upto 79 charecters in python.
+Q13 :- What are the benfits of using python ?
+Ans :- Benefits of using python are : open source, extensive libraries, easily portable, dyhnamic typing, object oriented, etgc.
+Q14 :- How is memory managed in python ?
+Ans :- Memory in Python is managed by Python private heap space. Python uses the dynamic memory allocation which is managed by the Heap data structure. Memory          Heap holds the objects and other data structures that will be used in the program. Python memory manager manages the allocation or de-allocation of the          heap memory space through the API functions.
+Q15 :- How to install python in windows and set path variables ?
+Ans :- To download python , the following steps :-
+       1-Downloading the Python Installer
+       2-Running the Executable Installer
+       3-Setup Progress
+       4-Final Installer Window
+       5-Verify the Installation
+       6-Getting Started with Python
+
+     :- The complete path of python.exe can be added by:-
+        1-Right-clicking This PC and going to Properties
+        2-Clicking on the Advanced system settings in the menu on the left.
+        3-Clicking on the Environment Variables button on the bottom right.
+        4-In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a           part of the PATH variable.
+        5-Clicking on New and entering Python’s install directory.
+          Python can now be used directly from the command prompt without having to write its location. Try executing the command python --version; it will               output the version of Python installed on your system.
+Q16 :- Is identation required in python ?
+Ans :- Yes indentatioin is mandatory.
+
